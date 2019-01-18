@@ -6,6 +6,11 @@
 	margin: 0 auto;
 }
 
+/*画像を丸くする*/
+.img-round{
+	border-radius: 50%;
+	border: 4px solid green;
+}
 /*flexbox*/
 .flexbox {
 	display: flex;
@@ -15,7 +20,6 @@
 .flexbox p {
 	padding-right: .5em;
 }
-
 /*flexbox2*/
 .flexbox div {
 	padding: 0 .5em .5em 0;
