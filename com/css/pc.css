@@ -1,0 +1,41 @@
+.pc-only{}
+.sm-only{ display:none !important; }
+/*LAYOUT*/
+.hc,.nc,.mc,.fc{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/*flexbox*/
+.flexbox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.flexbox p {
+	padding-right: .5em;
+}
+
+/*flexbox2*/
+.flexbox div {
+	padding: 0 .5em .5em 0;
+}
+
+/*members*/
+.members {
+	background: #f3f3f3;
+	padding: 2em;
+}
+.members .content{
+	width: 1000px;
+	margin: 0 auto;
+}
+.members .flexbox div {
+	background: #fff;
+	padding: 2em;
+	margin: 0 .5em .5em 0;
+	transition: .5s;
+}
+.members .flexbox div:hover{
+	background: #A0D368;
+}

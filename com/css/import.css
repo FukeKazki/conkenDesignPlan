@@ -1,0 +1,8 @@
+/* CSS Document */
+/*font*/
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p|Source+Sans+Pro');
+/*css*/
+@import url("reset.css");
+@import url("layout.css");
+@import url("pc.css")	(min-width: 481px);
+@import url("smart.css")	(max-width: 480px);

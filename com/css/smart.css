@@ -1,0 +1,18 @@
+.pc-only{ display: none !important;}
+.sm-only{}
+/*LAYOUT*/
+.hc,.nc,.mc,.fc{
+	width: 90%;
+	margin: 0 auto;
+}
+
+/*flexbox*/
+.flexbox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.flexbox p {
+	width: 50%;
+	padding-right: .5em;
+}

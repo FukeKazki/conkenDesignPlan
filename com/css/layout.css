@@ -1,0 +1,59 @@
+/*LAYOUT*/
+
+/*COLOR*/
+
+/*TEXT*/
+.title{
+	margin: 0;
+	padding: 1em;
+	font-size: 136%;
+}
+.page-title{
+	margin-top: 2em; 
+	padding: 0; 
+	text-align: center; 
+	font-size: 200%; 
+	font-weight: 600; 
+	line-height: 1.5;
+}
+.page-title-icon{}
+.page-title-sub{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-weight: 600; 
+	font-size: 108%; 
+	letter-spacing: 0.2em;
+}
+.article-title{
+	margin-top: 1em;
+	padding: 0;
+	text-align: center;
+	font-size: 180%;
+	font-weight: bold;
+}
+.article-title-sub{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-weight: 600; 
+	font-size: 108%; 
+	letter-spacing: 0.2em;
+}
+.article-title-icon{
+	margin-right: 0.5em;
+}
+.section-title{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 120%;
+	font-weight: 200;
+}
+.section-title-sub{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 83%;
+	font-weight: bold;
+}
